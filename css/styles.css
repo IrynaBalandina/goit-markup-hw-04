@@ -644,6 +644,14 @@ padding: 16px 32px;
     flex-basis: calc((100%-144px)/9);
   }
 
+  .link-projects{
+    display: block; 
+  }
+.link-projects:hover,
+.link-projects:focus{
+  box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
+}
+
   .card:hover,
   .card:focus{
     box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
