@@ -510,7 +510,7 @@ color: var(--icons-color);
 .footer-social-media {
   display: block;
   align-items: baseline;
-  gap: 120px;
+  margin-right: 120px;
 }
 .text-social-links {
   font-weight: 500;
